@@ -78,6 +78,3 @@ webbrowser.open(random.choice(videos))
 
 
 
-
-https://github.com/Shilpagowda0801/wakeup-video
-https://github.com/Shilpagowda0801/wakeup-video.git
